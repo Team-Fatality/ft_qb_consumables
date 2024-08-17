@@ -2,7 +2,7 @@ Config = {}
 
 Config.oxnotify = true
 
-Config.webhook = "https://discord.com/api/webhooks/1257193909331951616/Ey5ktpu75Z9mKRB_wE4m1i4mvX_XbS3v1jxAPkiQxVzoMsZweU9PI48-skMjBY9VqYLd" -- YOUR_WEBHOOK_URL_HERE
+Config.webhook = "" -- YOUR_WEBHOOK_URL_HERE
 
 Config.Items = { 
 
@@ -33,6 +33,7 @@ Config.Items = {
     -- BurgerShot --
     ----------------
 
+
     ["bacon_double_cheeseburger"] = {
         name = "bacon_double_cheeseburger",
         label = "Bacon Double Cheeseburger",
@@ -46,10 +47,9 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["bacon_ham_sausage"] = {
         name = "bacon_ham_sausage",
-        label = "Bacon Ham Sausage",
+        label = "Fully Loaded Bacon Ham Sausage",
         hunger = 200000,
         thirst = 0,
         anim = {
@@ -60,7 +60,6 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["bacon_king"] = {
         name = "bacon_king",
         label = "Bacon King",
@@ -74,7 +73,6 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["big_fish"] = {
         name = "big_fish",
         label = "Big Fish",
@@ -88,10 +86,9 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["bs_chicken_jr"] = {
         name = "bs_chicken_jr",
-        label = "BS Chicken Jr.",
+        label = "Chicken Jr",
         hunger = 200000,
         thirst = 0,
         anim = {
@@ -102,10 +99,9 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["bs_hamburger"] = {
         name = "bs_hamburger",
-        label = "BS Hamburger",
+        label = "Hamburger",
         hunger = 200000,
         thirst = 0,
         anim = {
@@ -116,10 +112,9 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["buttermilk_biscuit"] = {
         name = "buttermilk_biscuit",
-        label = "Buttermilk Biscuit",
+        label = "Fully Loaded Buttermilk",
         hunger = 200000,
         thirst = 0,
         anim = {
@@ -130,10 +125,9 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["deluxe_chicken_sandwich"] = {
         name = "deluxe_chicken_sandwich",
-        label = "Deluxe Chicken Sandwich",
+        label = "Ch King Deluxe Chicken Sandwich",
         hunger = 200000,
         thirst = 0,
         anim = {
@@ -144,21 +138,19 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["bs_mozzarella_sticks"] = {
         name = "bs_mozzarella_sticks",
-        label = "BS Mozzarella Sticks",
+        label = "Mozzarella Sticks",
         hunger = 200000,
         thirst = 0,
         anim = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger',
-            prop_name = 'prop_food_bs_chips',
+            prop_name = 'prop_cs_burger_01',
             bones = 18905,
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["cheesy_tots"] = {
         name = "cheesy_tots",
         label = "Cheesy Tots",
@@ -167,26 +159,24 @@ Config.Items = {
         anim = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger',
-            prop_name = 'prop_food_bs_chips',
+            prop_name = 'prop_cs_burger_01',
             bones = 18905,
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["chicken_fries"] = {
         name = "chicken_fries",
-        label = "Chicken Fries",
+        label = "9 pc Chicken Fries",
         hunger = 200000,
         thirst = 0,
         anim = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger',
-            prop_name = 'prop_food_bs_chips',
+            prop_name = 'prop_cs_burger_01',
             bones = 18905,
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["chicken_nuggets"] = {
         name = "chicken_nuggets",
         label = "Chicken Nuggets",
@@ -195,12 +185,11 @@ Config.Items = {
         anim = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger',
-            prop_name = 'prop_food_bs_chips',
+            prop_name = 'prop_cs_burger_01',
             bones = 18905,
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["egg_normous_burrito"] = {
         name = "egg_normous_burrito",
         label = "Egg Normous Burrito",
@@ -209,26 +198,24 @@ Config.Items = {
         anim = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger',
-            prop_name = 'prop_food_bs_chips',
+            prop_name = 'prop_cs_burger_01',
             bones = 18905,
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["ham_egg_cheese"] = {
         name = "ham_egg_cheese",
-        label = "Ham Egg Cheese",
+        label = "Ham, Egg, & Cheese CroissanWich",
         hunger = 200000,
         thirst = 0,
         anim = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger',
-            prop_name = 'prop_food_bs_chips',
+            prop_name = 'prop_cs_burger_01',
             bones = 18905,
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["jalapeno_cheddar_bites"] = {
         name = "jalapeno_cheddar_bites",
         label = "Jalapeno Cheddar Bites",
@@ -237,29 +224,31 @@ Config.Items = {
         anim = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger',
-            prop_name = 'prop_food_bs_chips',
+            prop_name = 'prop_cs_burger_01',
             bones = 18905,
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
     ["pancake_sausage_platter"] = {
         name = "pancake_sausage_platter",
-        label = "Pancake Sausage Platter",
+        label = "Pancake & Sausage Platter",
         hunger = 200000,
         thirst = 0,
         anim = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger',
-            prop_name = 'prop_food_bs_chips',
+            prop_name = 'prop_cs_burger_01',
             bones = 18905,
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
 
-    ["bs_coca_cola"] = {
-        name = "bs_coca_cola",
-        label = "BS Coca Cola",
+    
+
+
+    ["juice"] = {
+        name = "juice",
+        label = "Juice",
         hunger = 0,
         thirst = 100000,
         anim = {
@@ -270,10 +259,9 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
-    ["bs_fanta_orange"] = {
-        name = "bs_fanta_orange",
-        label = "BS Fanta Orange",
+    ["mai_tai"] = {
+        name = "mai_tai",
+        label = "Mai Tai",
         hunger = 0,
         thirst = 100000,
         anim = {
@@ -284,10 +272,9 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
-    ["bs_fruit_punch"] = {
-        name = "bs_fruit_punch",
-        label = "BS Fruit Punch",
+    ["mojito"] = {
+        name = "mojito",
+        label = "Mojito",
         hunger = 0,
         thirst = 100000,
         anim = {
@@ -298,10 +285,9 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
-    ["bs_iced_tea"] = {
-        name = "bs_iced_tea",
-        label = "BS Iced Tea",
+    ["opmcocktail"] = {
+        name = "opmcocktail",
+        label = "opm cocktail",
         hunger = 0,
         thirst = 100000,
         anim = {
@@ -312,10 +298,9 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
-    ["bs_sprite"] = {
-        name = "bs_sprite",
-        label = "BS Sprite",
+    ["strawberry_acai_refresha"] = {
+        name = "strawberry_acai_refresha",
+        label = "Strawberry Acai",
         hunger = 0,
         thirst = 100000,
         anim = {
@@ -326,10 +311,9 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
-
-    ["bs_yello_mello"] = {
-        name = "bs_yello_mello",
-        label = "BS Yello Mello",
+    ["strawberry_juice"] = {
+        name = "strawberry_juice",
+        label = "Strawberry Juice",
         hunger = 0,
         thirst = 100000,
         anim = {
@@ -340,34 +324,8 @@ Config.Items = {
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
+    
 
-    ["chocolate_cookie_shake"] = {
-        name = "chocolate_cookie_shake",
-        label = "Chocolate Cookie Shake",
-        hunger = 0,
-        thirst = 100000,
-        anim = {
-            animatdict = 'mp_player_intdrink',
-            animation = 'loop_bottle',
-            prop_name = 'prop_food_bs_juice02',
-            bones = 18905,
-            prop_rotate = vector3(260.0, 0.0, 0.0)
-        }
-    },
-
-    ["pink_lemonade"] = {
-        name = "pink_lemonade",
-        label = "Pink Lemonade",
-        hunger = 0,
-        thirst = 100000,
-        anim = {
-            animatdict = 'mp_player_intdrink',
-            animation = 'loop_bottle',
-            prop_name = 'prop_food_bs_juice02',
-            bones = 18905,
-            prop_rotate = vector3(260.0, 0.0, 0.0)
-        }
-    },
 
 
 
