@@ -154,10 +154,11 @@ function SetAnim(animtable)
     local prop = CreateObject(joaat(prop_name), x, y, z + 0.2, true, true, true)
     local boneIndex = GetPedBoneIndex(playerPed, animtable.bones)
     local rotate = animtable.prop_rotate
+    local position = animtable.prop_position
 
 
 
-    AttachEntityToEntity(prop, playerPed, boneIndex, 0.12, 0.028, 0.001, rotate.x, rotate.y, rotate.z, true, true, false, true, 1, true)
+    AttachEntityToEntity(prop, playerPed, boneIndex, position.x, position.y, position.z, rotate.x, rotate.y, rotate.z, true, true, false, true, 1, true)
 
     ESX.Streaming.RequestAnimDict(animatdict, function()
         TaskPlayAnim(playerPed, animatdict, animation, 8.0, -8, -1, 49, 0, 0, 0, 0)
