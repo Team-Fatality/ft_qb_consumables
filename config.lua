@@ -3512,9 +3512,395 @@ Config.Items = {
 
 
 
+    ----------------
+    -- Ice Creame --
+    ----------------
+
+    ["bubblegumicecream"] = {
+        name = "bubblegumicecream",
+        label = "Bubblegum Ice Cream",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["butterscotchicecream"] = {
+        name = "butterscotchicecream",
+        label = "Butterscotch Ice Cream",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["chocolatecupcake"] = {
+        name = "chocolatecupcake",
+        label = "Chocolate Cupcake",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["chocolateicecream"] = {
+        name = "chocolateicecream",
+        label = "Chocolate Ice Cream",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["cookiedoughicecream"] = {
+        name = "cookiedoughicecream",
+        label = "Cookie Dough Ice Cream",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["minticecream"] = {
+        name = "minticecream",
+        label = "Mint Ice Cream",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["pistachioicecream"] = {
+        name = "pistachioicecream",
+        label = "Pistachio Ice Cream",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["saltedcaramelicecream"] = {
+        name = "saltedcaramelicecream",
+        label = "Salted Caramel Ice Cream",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["strawberryicecream"] = {
+        name = "strawberryicecream",
+        label = "Strawberry Ice Cream",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["toffeeicecream"] = {
+        name = "toffeeicecream",
+        label = "Toffee Ice Cream",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["vanillacupcake"] = {
+        name = "vanillacupcake",
+        label = "Vanilla Cupcake",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+    ["vanillaicecream"] = {
+        name = "vanillaicecream",
+        label = "Vanilla Ice Cream",
+        hunger = 100000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger',
+            prop_name = 'bzzz_icecream_strawberry',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(85.0, 70.0, -203.0)
+        }
+    },
+
+    
+
+
+
+    ["bubblegum"] = {
+        name = "bubblegum",
+        label = "Bubblegum",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["bubblegumsmoothie"] = {
+        name = "bubblegumsmoothie",
+        label = "Bubblegum Smoothie",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["butterscotch"] = {
+        name = "butterscotch",
+        label = "Butterscotch",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["butterscotchsmoothie"] = {
+        name = "butterscotchsmoothie",
+        label = "Butterscotch Smoothie",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["chocolatesmoothie"] = {
+        name = "chocolatesmoothie",
+        label = "Chocolate Smoothie",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["cola"] = {
+        name = "cola",
+        label = "Cola",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["cookiedoughsmoothie"] = {
+        name = "cookiedoughsmoothie",
+        label = "Cookie Dough Smoothie",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["mintsmoothie"] = {
+        name = "mintsmoothie",
+        label = "Mint Smoothie",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["orangesoda"] = {
+        name = "orangesoda",
+        label = "Orange Soda",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["pistachiosmoothie"] = {
+        name = "pistachiosmoothie",
+        label = "Pistachio Smoothie",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["saltedcaramel"] = {
+        name = "saltedcaramel",
+        label = "Salted Caramel",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["saltedcaramelsmoothie"] = {
+        name = "saltedcaramelsmoothie",
+        label = "Salted Caramel Smoothie",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["strawberrysmoothie"] = {
+        name = "strawberrysmoothie",
+        label = "Strawberry Smoothie",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["toffeesmoothie"] = {
+        name = "toffeesmoothie",
+        label = "Toffee Smoothie",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
+    ["vanillasmoothie"] = {
+        name = "vanillasmoothie",
+        label = "Vanilla Smoothie",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_wheat_grass_glass',
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
+            prop_rotate = vector3(-116.65, 0.15, 5.98)
+        }
+    },
 
 
 
 }
-
 
