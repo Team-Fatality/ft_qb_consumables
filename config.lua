@@ -23,6 +23,7 @@ Config.Items = {
     --         animation = 'loop_bottle',
     --         prop_name = 'prop_ld_flow_bottle',
     --         bones = 18905,
+    --         prop_position = vector3(0.12, 0.028, 0.001)
     --         prop_rotate = vector3(260.0, 0.0, 0.0)
     --     }
     -- },
@@ -44,6 +45,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -57,6 +59,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -70,6 +73,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -83,6 +87,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -96,6 +101,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -109,6 +115,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -122,6 +129,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -135,6 +143,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -148,6 +157,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -161,6 +171,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -174,6 +185,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -187,6 +199,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -200,6 +213,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -213,6 +227,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -226,6 +241,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -239,6 +255,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -256,6 +273,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_bs_juice02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -269,6 +287,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_bs_juice02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -282,6 +301,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_bs_juice02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -295,6 +315,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_bs_juice02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -308,6 +329,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_bs_juice02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -321,6 +343,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_bs_juice02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -343,6 +366,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -357,6 +381,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -371,6 +396,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -385,6 +411,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -399,6 +426,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -413,6 +441,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -427,6 +456,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -441,6 +471,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -455,6 +486,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -469,6 +501,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -483,6 +516,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -497,6 +531,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -511,6 +546,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -525,6 +561,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -539,6 +576,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -553,6 +591,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -567,6 +606,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -581,6 +621,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -595,6 +636,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -609,6 +651,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -629,6 +672,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -643,6 +687,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -657,6 +702,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -671,6 +717,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -685,6 +732,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -699,6 +747,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -713,6 +762,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -727,6 +777,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -741,6 +792,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -755,6 +807,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -769,6 +822,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -783,6 +837,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'knjgh_pizzaslice1',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -797,6 +852,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -811,6 +867,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -825,6 +882,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -839,6 +897,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -853,6 +912,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -867,6 +927,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -881,6 +942,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -895,6 +957,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -909,6 +972,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -923,6 +987,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -937,6 +1002,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_juice01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -951,6 +1017,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_juice01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -965,6 +1032,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_juice01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -979,6 +1047,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_juice01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -993,6 +1062,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_food_juice01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1012,6 +1082,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1026,6 +1097,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1040,6 +1112,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1054,6 +1127,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1068,6 +1142,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1082,6 +1157,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1096,6 +1172,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1110,6 +1187,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1124,6 +1202,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1138,6 +1217,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1152,6 +1232,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1166,6 +1247,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1180,6 +1262,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1194,6 +1277,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1208,6 +1292,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1222,6 +1307,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1236,6 +1322,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1250,6 +1337,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1264,6 +1352,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1278,6 +1367,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1292,6 +1382,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1306,6 +1397,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1320,6 +1412,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1334,6 +1427,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1348,6 +1442,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1367,6 +1462,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1380,6 +1476,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1393,6 +1490,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1406,6 +1504,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1419,6 +1518,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1432,6 +1532,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1445,6 +1546,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1458,6 +1560,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1471,6 +1574,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1484,6 +1588,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1497,6 +1602,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1510,6 +1616,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1523,6 +1630,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1536,6 +1644,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1549,6 +1658,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1562,6 +1672,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1575,6 +1686,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1588,6 +1700,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1601,6 +1714,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1614,6 +1728,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1627,6 +1742,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1641,6 +1757,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1654,6 +1771,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1667,6 +1785,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1680,6 +1799,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1693,6 +1813,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1706,6 +1827,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1719,6 +1841,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1732,6 +1855,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1745,6 +1869,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1758,6 +1883,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1771,6 +1897,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1784,6 +1911,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'v_res_tt_can02',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1806,6 +1934,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1819,6 +1948,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1832,6 +1962,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1845,6 +1976,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1858,6 +1990,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1871,6 +2004,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1884,6 +2018,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1897,6 +2032,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1910,6 +2046,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1923,6 +2060,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1936,6 +2074,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1949,6 +2088,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1962,6 +2102,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1975,6 +2116,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -1988,6 +2130,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2001,6 +2144,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2014,6 +2158,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2027,6 +2172,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2040,6 +2186,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2053,6 +2200,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2066,6 +2214,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2079,6 +2228,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2092,6 +2242,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2105,6 +2256,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2118,6 +2270,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2131,6 +2284,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2151,6 +2305,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2164,6 +2319,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2177,6 +2333,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2190,6 +2347,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2203,6 +2361,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2216,6 +2375,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2229,6 +2389,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2242,6 +2403,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2256,6 +2418,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2269,6 +2432,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2282,6 +2446,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2295,6 +2460,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2308,6 +2474,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2321,6 +2488,7 @@ Config.Items = {
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_taco_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2335,6 +2503,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2348,6 +2517,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2361,6 +2531,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2374,6 +2545,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2387,6 +2559,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'prop_energy_drink',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2405,6 +2578,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2418,6 +2592,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2431,6 +2606,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2444,6 +2620,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2457,6 +2634,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2470,6 +2648,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2489,7 +2668,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2502,7 +2682,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2515,7 +2696,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2528,7 +2710,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2541,7 +2724,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2556,6 +2740,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2569,6 +2754,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2582,6 +2768,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2595,6 +2782,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2608,6 +2796,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2621,6 +2810,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2634,6 +2824,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2647,6 +2838,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2666,6 +2858,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2679,6 +2872,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2692,6 +2886,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2705,6 +2900,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2718,6 +2914,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2731,6 +2928,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2744,6 +2942,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2757,6 +2956,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2770,6 +2970,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2783,6 +2984,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2796,6 +2998,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2809,6 +3012,7 @@ Config.Items = {
             animation = 'loop_bottle',
             prop_name = 'p_ing_coffeecup_01',
             bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2823,7 +3027,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2836,7 +3041,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2849,7 +3055,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2862,7 +3069,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2875,7 +3083,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2888,7 +3097,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2901,7 +3111,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2914,7 +3125,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2927,7 +3139,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'prop_cs_burger_01',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2947,7 +3160,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2960,7 +3174,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2973,7 +3188,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -2986,7 +3202,8 @@ Config.Items = {
             animatdict = 'mp_player_inteat@burger',
             animation = 'mp_player_int_eat_burger_fp',
             prop_name = 'ng_proc_food_aple2a',
-            bones = 49,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3000,7 +3217,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_wheat_grass_glass',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3013,7 +3231,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_wheat_grass_glass',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3026,7 +3245,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_wheat_grass_glass',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3039,7 +3259,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_wheat_grass_glass',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3052,7 +3273,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_wheat_grass_glass',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3065,7 +3287,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_cocktail',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3078,7 +3301,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_daquiri',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3091,7 +3315,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_cocktail',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3104,7 +3329,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_cocktail',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3117,7 +3343,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_cocktail',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3130,7 +3357,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_cocktail',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3143,7 +3371,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_cocktail',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3156,7 +3385,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_cocktail',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3169,7 +3399,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_tequila_bottle',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3182,7 +3413,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'prop_cocktail',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3197,7 +3429,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'p_cs_bottle_01',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3211,7 +3444,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'p_cs_bottle_01',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3225,7 +3459,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'p_cs_bottle_01',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3239,7 +3474,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'p_cs_bottle_01',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3253,7 +3489,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'p_cs_bottle_01',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3267,7 +3504,8 @@ Config.Items = {
             animatdict = 'mp_player_intdrink',
             animation = 'loop_bottle',
             prop_name = 'p_cs_bottle_01',
-            bones = 0,
+            bones = 18905,
+            prop_position = vector3(0.12, 0.028, 0.001)
             prop_rotate = vector3(260.0, 0.0, 0.0)
         }
     },
@@ -3278,6 +3516,5 @@ Config.Items = {
 
 
 }
-
 
 
