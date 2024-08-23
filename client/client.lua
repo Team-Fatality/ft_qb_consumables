@@ -1,7 +1,11 @@
+QBCore = exports['qb-core']:GetCoreObject()
+
 
 CreateThread(function()
     for k, v in pairs(Config.Items) do
-        local event = "ft_consumables:" .. v.name
+        
+
+        local event = "ft_qb_consumables:" .. v.name
         local playerPed = PlayerPedId()
         RegisterNetEvent(event)
         AddEventHandler(event, function()
@@ -13,10 +17,13 @@ CreateThread(function()
                     position = 'top',
                 })
             else
-                ESX.ShowNotification(notify)
+                QBCore.Functions.Notify(notify)
             end
 
 
+            print("Client: Event triggered for item: " .. v.name)
+            print("Client: Remove Stress value: " .. tostring(v.removestress))
+            
             if v.anim then
                 local animtable = v.anim
                 SetAnim(animtable)
@@ -37,25 +44,25 @@ CreateThread(function()
 
             -- Hunger
             if v.hunger then
-                TriggerEvent('esx_status:add', 'hunger', v.hunger)
+                TriggerServerEvent("ft_qb_consumables:addNeed", v.hunger, "hunger")
             end
 
             -- Thirst
             if v.thirst then
-                TriggerEvent('esx_status:add', 'thirst', v.thirst)
+                TriggerServerEvent("ft_qb_consumables:addNeed", v.thirst, "thirst")
             end
-
+            
             -- Stress
             if v.removestress then
-                TriggerEvent('esx_status:remove', 'stress', 100000)
+                TriggerServerEvent('hud:server:RelieveStress', 100000) -- Remove stress.
             end
 
             if v.addstress then
-                TriggerEvent('esx_status:add', 'stress', 100000)
+                TriggerServerEvent('hud:server:GainStress', 100000) -- Remove stress.
             end
 
             if v.drunk then
-                TriggerEvent('ft_consumables:SetPedIsDrunk')
+                TriggerEvent('ft_qb_consumables:SetPedIsDrunk')
             end
 
         end)
@@ -64,13 +71,14 @@ end)
 
 
 
-RegisterNetEvent('ft_consumables:SetPedIsDrunk')
-AddEventHandler('ft_consumables:SetPedIsDrunk', function()
+RegisterNetEvent('ft_qb_consumables:SetPedIsDrunk')
+AddEventHandler('ft_qb_consumables:SetPedIsDrunk', function()
+    print("aa")
     SetDrunk()
 end)
 
-RegisterNetEvent('ft_consumables:SetPedStamina')
-AddEventHandler('ft_consumables:SetPedStamina', function(duration)
+RegisterNetEvent('ft_qb_consumables:SetPedStamina')
+AddEventHandler('ft_qb_consumables:SetPedStamina', function(duration)
     SetStaminaPerk(duration)
 end)
 
@@ -111,6 +119,7 @@ function SetAdrenalinePerk(duration)
 end
 
 function SetDrunk()
+    print("aa")
     RequestAnimSet("move_m@drunk@slightlydrunk")
     while not HasAnimSetLoaded("move_m@drunk@slightlydrunk") do Citizen.Wait(0) end
 
@@ -145,55 +154,55 @@ function ClearEffects()
     ClearPedSecondaryTask(PlayerPedId())
 end
 
+function RequestAndWaitAnimDict(animatdict)
+    RequestAnimDict(animatdict)
+    while not HasAnimDictLoaded(animatdict) do
+        Wait(0)
+    end
+end
+
 function SetAnim(animtable)
-    local playerPed  = PlayerPedId()
+    local playerPed = PlayerPedId()
     local animatdict = animtable.animatdict
     local animation = animtable.animation
     local prop_name = animtable.prop_name
-    local x,y,z = table.unpack(GetEntityCoords(playerPed))
+    local x, y, z = table.unpack(GetEntityCoords(playerPed))
     local prop = CreateObject(joaat(prop_name), x, y, z + 0.2, true, true, true)
     local boneIndex = GetPedBoneIndex(playerPed, animtable.bones)
     local rotate = animtable.prop_rotate
-    local position = animtable.prop_position
 
+    AttachEntityToEntity(prop, playerPed, boneIndex, 0.12, 0.028, 0.001, rotate.x, rotate.y, rotate.z, true, true, false, true, 1, true)
 
+    RequestAndWaitAnimDict(animatdict)
+    
+    TaskPlayAnim(playerPed, animatdict, animation, 8.0, -8, -1, 49, 0, 0, 0, 0)
+    RemoveAnimDict(animatdict)
 
-    AttachEntityToEntity(prop, playerPed, boneIndex, position.x, position.y, position.z, rotate.x, rotate.y, rotate.z, true, true, false, true, 1, true)
-
-    ESX.Streaming.RequestAnimDict(animatdict, function()
-        TaskPlayAnim(playerPed, animatdict, animation, 8.0, -8, -1, 49, 0, 0, 0, 0)
-        RemoveAnimDict(animatdict)
-
-        Wait(3000)
-        IsAnimated = false
-        ClearPedSecondaryTask(playerPed)
-        DeleteObject(prop)
-    end)
-
+    Wait(3000)
+    IsAnimated = false
+    ClearPedSecondaryTask(playerPed)
+    DeleteObject(prop)
 end
 
 function SetDefaultAnim()
-    local playerPed  = PlayerPedId()
-    animatdict = 'mp_player_inteat@burger'
-    animation = 'mp_player_int_eat_burger_fp'
-    prop_name = 'prop_cs_burger_01'
-    local x,y,z = table.unpack(GetEntityCoords(playerPed))
+    local playerPed = PlayerPedId()
+    local animatdict = 'mp_player_inteat@burger'
+    local animation = 'mp_player_int_eat_burger_fp'
+    local prop_name = 'prop_cs_burger_01'
+    local x, y, z = table.unpack(GetEntityCoords(playerPed))
     local prop = CreateObject(joaat(prop_name), x, y, z + 0.2, true, true, true)
     local boneIndex = GetPedBoneIndex(playerPed, 18905)
     local rotate = vector3(10.0, 175.0, 0.0)
 
-
-
     AttachEntityToEntity(prop, playerPed, boneIndex, 0.12, 0.028, 0.001, rotate.x, rotate.y, rotate.z, true, true, false, true, 1, true)
 
-    ESX.Streaming.RequestAnimDict(animatdict, function()
-        TaskPlayAnim(playerPed, animatdict, animation, 8.0, -8, -1, 49, 0, 0, 0, 0)
-        RemoveAnimDict(animatdict)
+    RequestAndWaitAnimDict(animatdict)
+    
+    TaskPlayAnim(playerPed, animatdict, animation, 8.0, -8, -1, 49, 0, 0, 0, 0)
+    RemoveAnimDict(animatdict)
 
-        Wait(3000)
-        IsAnimated = false
-        ClearPedSecondaryTask(playerPed)
-        DeleteObject(prop)
-    end)
-
+    Wait(3000)
+    IsAnimated = false
+    ClearPedSecondaryTask(playerPed)
+    DeleteObject(prop)
 end
