@@ -39,7 +39,7 @@ RegisterNetEvent('ft_qb_consumables:addNeed', function(amount, type)
 
 	if type == "hunger" then
         newhunger = hunger + amount
-        Player.Functions.SetMetaData('thirst', newhunger)
+        Player.Functions.SetMetaData('hunger', newhunger)
         TriggerClientEvent('hud:client:UpdateNeeds', source, newhunger, thirst)
     end
 	if type == "thirst" then
