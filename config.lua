@@ -3902,5 +3902,314 @@ Config.Items = {
 
 
 
+    
+
+    
+    ----------------
+    -- Wings SHop --
+    ----------------
+
+    ["bites_group_pack"] = {
+        name = "bites_group_pack",
+        label = "Bites Group Pack",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["boneless_meal_deal"] = {
+        name = "boneless_meal_deal",
+        label = "Boneless Meal Deal",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["boneless_wings"] = {
+        name = "boneless_wings",
+        label = "Boneless Wings",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["buffalo_ranch_fries"] = {
+        name = "buffalo_ranch_fries",
+        label = "Buffalo Ranch Fries",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["cajun_fried_corn"] = {
+        name = "cajun_fried_corn",
+        label = "Cajun Fried Corn",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["cheese_fries"] = {
+        name = "cheese_fries",
+        label = "Cheese Fries",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["group_pack"] = {
+        name = "group_pack",
+        label = "Group Pack",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["hundred_wings"] = {
+        name = "hundred_wings",
+        label = "Hundred Wings",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["large_thigh_bites"] = {
+        name = "large_thigh_bites",
+        label = "Large Thigh Bites",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["louisiana_voodoo_fries"] = {
+        name = "louisiana_voodoo_fries",
+        label = "Louisiana Voodoo Fries",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["party_pack"] = {
+        name = "party_pack",
+        label = "Party Pack",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["seasoned_fries"] = {
+        name = "seasoned_fries",
+        label = "Seasoned Fries",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["tender_pack"] = {
+        name = "tender_pack",
+        label = "Tender Pack",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["thirty_crispy_tenders"] = {
+        name = "thirty_crispy_tenders",
+        label = "Thirty Crispy Tenders",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+    ["triple_meal_deal"] = {
+        name = "triple_meal_deal",
+        label = "Triple Meal Deal",
+        hunger = 200000,
+        thirst = 0,
+        anim = {
+            animatdict = 'mp_player_inteat@burger',
+            animation = 'mp_player_int_eat_burger_fp',
+            prop_name = 'ng_proc_food_ornge1a',
+            bones = 18905,
+            prop_position = vector3(8.0, -8, -1),
+            prop_rotate = vector3(49, 0, 0)
+        }
+    },
+
+
+
+
+    ["cola_drink"] = {
+        name = "cola_drink",
+        label = "Cola Drink",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_energy_drink',
+            bones = 18905,
+            prop_position = vector3(1.0, -1.0, 2000),
+            prop_rotate = vector3(0, 1, 0)
+        }
+    },
+    ["mai_tai"] = {
+        name = "mai_tai",
+        label = "Mai Tai",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_energy_drink',
+            bones = 18905,
+            prop_position = vector3(1.0, -1.0, 2000),
+            prop_rotate = vector3(0, 1, 0)
+        }
+    },
+    ["mix_fruit"] = {
+        name = "mix_fruit",
+        label = "Mix Fruit",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_energy_drink',
+            bones = 18905,
+            prop_position = vector3(1.0, -1.0, 2000),
+            prop_rotate = vector3(0, 1, 0)
+        }
+    },
+    ["opmcocktail"] = {
+        name = "opmcocktail",
+        label = "OPM Cocktail",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_energy_drink',
+            bones = 18905,
+            prop_position = vector3(1.0, -1.0, 2000),
+            prop_rotate = vector3(0, 1, 0)
+        }
+    },
+    ["sprunk"] = {
+        name = "sprunk",
+        label = "Sprunk",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_energy_drink',
+            bones = 18905,
+            prop_position = vector3(1.0, -1.0, 2000),
+            prop_rotate = vector3(0, 1, 0)
+        }
+    },
+    ["sprunk_light"] = {
+        name = "sprunk_light",
+        label = "Sprunk Light",
+        hunger = 0,
+        thirst = 100000,
+        anim = {
+            animatdict = 'mp_player_intdrink',
+            animation = 'loop_bottle',
+            prop_name = 'prop_energy_drink',
+            bones = 18905,
+            prop_position = vector3(1.0, -1.0, 2000),
+            prop_rotate = vector3(0, 1, 0)
+        }
+    },
+
+
+    
+
 }
 
